@@ -1,3 +1,5 @@
+[English](README.md) | 日本語
+
 # drm-media-metadata-ui
 
 ローカルに保存された暗号化メディアファイルのための、
