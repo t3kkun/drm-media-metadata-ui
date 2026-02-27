@@ -58,3 +58,42 @@ Encrypted Files
 
 ```bash
 uv sync
+```
+---
+
+## How to Use
+
+1. Place your encrypted media files under the `contents/` directory.
+2. Generate metadata:
+
+```bash
+uv run python generate_db.py
+```
+3.Lauch the UI
+```bash
+uv run ui.py
+```
+4.Click thumbnails to launch playback via the official player.
+
+---
+
+## Further Information
+
+```markdown
+## Further Information
+
+A detailed design explanation (in Japanese) is available here:
+
+🔗 https://note.com/t3kkun/n/n486fc8022df2
+```
+---
+
+## Disclaimer
+
+This project is an independent, unofficial tool designed to improve metadata visibility for locally stored encrypted media files.
+
+It does not decrypt, modify, or bypass DRM systems.
+Playback is handled exclusively by the official media player.
+
+The author is not affiliated with any media provider and assumes no responsibility for misuse.
+Users are responsible for complying with the terms of their media service and applicable laws.
