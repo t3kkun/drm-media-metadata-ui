@@ -69,11 +69,11 @@ uv sync
 ```bash
 uv run python generate_db.py
 ```
-3.Lauch the UI
+3. Lauch the UI
 ```bash
 uv run ui.py
 ```
-4.Click thumbnails to launch playback via the official player.
+4. Click thumbnails to launch playback via the official player.
 
 ---
 
