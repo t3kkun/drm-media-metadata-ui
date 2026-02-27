@@ -77,13 +77,11 @@ uv run ui.py
 
 ---
 
-## Further Information
 
-```markdown
 ## Further Information
 
 A detailed design explanation (in Japanese) is available here:
-
+```
 🔗 https://note.com/t3kkun/n/n486fc8022df2
 ```
 ---
